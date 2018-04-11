@@ -1,0 +1,10 @@
+﻿  scene.cpp
+c:\users\eryk\documents\grafika komputerowa\05.03.2018 lab2\project1\scene.cpp(258): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\eryk\documents\grafika komputerowa\05.03.2018 lab2\project1\scene.cpp(261): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\eryk\documents\grafika komputerowa\05.03.2018 lab2\project1\scene.cpp(264): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\eryk\documents\grafika komputerowa\05.03.2018 lab2\project1\scene.cpp(267): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\eryk\documents\grafika komputerowa\05.03.2018 lab2\project1\scene.cpp(270): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\eryk\documents\grafika komputerowa\05.03.2018 lab2\project1\scene.cpp(273): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\eryk\documents\grafika komputerowa\05.03.2018 lab2\project1\scene.cpp(276): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\eryk\documents\grafika komputerowa\05.03.2018 lab2\project1\scene.cpp(279): warning C4305: "+=": obcięcie z "double" do "float"
+  Project1.vcxproj -> C:\Users\Eryk\Documents\Grafika Komputerowa\05.03.2018 lab2\Project1\Debug\Project1.exe

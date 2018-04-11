@@ -1,0 +1,3 @@
+﻿  scene.cpp
+c:\users\eryk\documents\grafika komputerowa\26.02.2018 lab1\project1\scene.cpp(197): error C2664: „void ThrowException(char *)”: nie można dokonać konwersji argumentu 1 z „const char [18]” do „char *”
+  c:\users\eryk\documents\grafika komputerowa\26.02.2018 lab1\project1\scene.cpp(197): note: Konwersja z literału ciągu znaków powoduje utratę kwalifikatora const (patrz: /Zc:strictStrings)

@@ -1,0 +1,5 @@
+﻿  scene.cpp
+c:\users\eryk\documents\dokumentyput\grafika komputerowa\12.03.2018 lab3\project1\scene.cpp(103): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\eryk\documents\dokumentyput\grafika komputerowa\12.03.2018 lab3\project1\scene.cpp(150): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\eryk\documents\dokumentyput\grafika komputerowa\12.03.2018 lab3\project1\scene.cpp(166): warning C4305: "argument": obcięcie z "double" do "float"
+  Project1.vcxproj -> C:\Users\Eryk\Documents\DokumentyPUT\Grafika Komputerowa\12.03.2018 lab3\Project1\Debug\Project1.exe

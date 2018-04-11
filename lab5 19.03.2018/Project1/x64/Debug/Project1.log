@@ -1,0 +1,34 @@
+﻿globject.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewBindBuffer
+globject.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewBufferData
+globject.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewGenBuffers
+globject.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewEnableVertexAttribArray
+globject.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewVertexAttribPointer
+globject.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewBindVertexArray
+globject.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewGenVertexArrays
+scene.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glewInit przywołany w funkcji "public: void __cdecl Scene::Init(void)" (?Init@Scene@@QEAAXXZ)
+scene.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glewGetErrorString przywołany w funkcji "public: void __cdecl Scene::Init(void)" (?Init@Scene@@QEAAXXZ)
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewAttachShader
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewCompileShader
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewCreateProgram
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewCreateShader
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewDeleteProgram
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewGetProgramInfoLog
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewGetProgramiv
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewGetShaderInfoLog
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewGetShaderiv
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewGetUniformLocation
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewIsProgram
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewLinkProgram
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewShaderSource
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewUniform1f
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewUniform3fv
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewUniformMatrix4fv
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewUseProgram
+scene.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewValidateProgram
+texture.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewActiveTexture
+texture.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewBindSampler
+texture.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewDeleteSamplers
+texture.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewGenSamplers
+texture.obj : error LNK2001: nierozpoznany symbol zewnętrzny __imp___glewSamplerParameteri
+glew32.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\Users\Eryk\Documents\DokumentyPUT\Grafika Komputerowa\19.03.2018 lab5\Project1\x64\Debug\Project1.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 32

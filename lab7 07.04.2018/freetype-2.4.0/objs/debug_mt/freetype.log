@@ -1,0 +1,46 @@
+﻿  autofit.c
+  ftbase.c
+  ftbbox.c
+  ftbitmap.c
+  ftfstype.c
+  ftgasp.c
+  ftglyph.c
+  ftgxval.c
+  ftinit.c
+  ftlcdfil.c
+  ftmm.c
+  ftotval.c
+  ftpatent.c
+  ftpfr.c
+  ftstroke.c
+  ftsynth.c
+  ftsystem.c
+  fttype1.c
+  ftwinfnt.c
+  ftxf86.c
+  Generowanie kodu...
+  Trwa kompilowanie...
+  bdf.c
+  ftcache.c
+  cff.c
+c:\users\eryk\documents\dokumentyput\grafika komputerowa\07.04.2018 lab7\freetype-2.4.0\src\cff\cffgload.c(2683): warning C4244: "=": konwersja z "FT_UInt" do "FT_Byte", możliwa utrata danych
+  type1cid.c
+  ftgzip.c
+  ftlzw.c
+  pcf.c
+  pfr.c
+  psaux.c
+  pshinter.c
+  psmodule.c
+  raster.c
+  sfnt.c
+  smooth.c
+  truetype.c
+  type1.c
+  type42.c
+  winfnt.c
+  Generowanie kodu...
+  ftdebug.c
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1375,5): warning MSB8012: Wartość TargetPath(C:\Users\Eryk\Documents\DokumentyPUT\Grafika Komputerowa\07.04.2018 lab7\freetype-2.4.0\builds\win32\vc2008\.\..\..\..\objs\debug_mt\freetype.lib) jest niezgodna z wartością właściwości OutputFile obiektu Library (C:\Users\Eryk\Documents\DokumentyPUT\Grafika Komputerowa\07.04.2018 lab7\freetype-2.4.0\objs\win32\vc2008\freetype240MT_D.lib). Może to spowodować, że projekt zostanie niepoprawnie skompilowany. Aby rozwiązać ten problem, upewnij się, że wartości właściwości $(OutDir), $(TargetName) i $(TargetExt) są zgodne z wartością określoną we właściwości %(Lib.OutputFile). 
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1377,5): warning MSB8012: Wartość TargetName(freetype) jest niezgodna z wartością właściwości OutputFile obiektu Library (freetype240MT_D). Może to spowodować, że projekt zostanie niepoprawnie skompilowany. Aby rozwiązać ten problem, upewnij się, że wartości właściwości $(OutDir), $(TargetName) i $(TargetExt) są zgodne z wartością określoną we właściwości %(Lib.OutputFile). 
+  freetype.vcxproj -> C:\Users\Eryk\Documents\DokumentyPUT\Grafika Komputerowa\07.04.2018 lab7\freetype-2.4.0\builds\win32\vc2008\.\..\..\..\objs\debug_mt\freetype.lib
